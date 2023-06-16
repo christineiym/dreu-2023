@@ -9,7 +9,7 @@ name: Christine Mendoza
 description: Summer 2023 DREU Project
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/2023_profile_pic_cropped.jpg
+avatar: /images/2023_profile_pic_cropped.jpg
 avatar_alt_text: An Asian woman with short, black hair and a black cardigan over a pastel dress smiles on a clear day. # don't redundantly say it's an image. See more tips here: https://www.a11yproject.com/posts/alt-text/ 
 
 #
