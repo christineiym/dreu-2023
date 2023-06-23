@@ -8,7 +8,7 @@ title: Summer 2023 DREU Project Site
 
 ## About Me
 
-As of summer 2023, I am a rising senior (graduating spring 2024) at the University of North Carolina at Chapel Hill, where she double majors in Computer Science (B.S.) and in Nutrition at the [Gillings School of Public Health](https://sph.unc.edu/). I am passionate about using technology to empower those with disabilities and bridge gaps in accessibility, education, and public health.
+As of summer 2023, I am a rising senior (graduating spring 2024) at the University of North Carolina at Chapel Hill, where I double major in Computer Science (B.S.) and in Nutrition at the [Gillings School of Public Health](https://sph.unc.edu/). I am passionate about using technology to empower those with disabilities and bridge gaps in accessibility, education, and public health.
 
 Learn more about my various adventures in accessibility research and more at my [personal website](https://christineiym.github.io/)!
 
