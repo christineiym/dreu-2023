@@ -28,4 +28,7 @@ The goals of my project are three-fold:
 - To evaluate how much of literature translates to real-life in the specific use case of the popular crowdsource map OpenStreetMap.
 - To make proposals to improve map data quality for all in OpenStreetMap.
 
-To come: [My Final Report](files/finalreport.pdf)
+## Final Report
+[My Final Report](files/finalreport.pdf)
+
+**NOTE:** Research was still in-progress when this was written; hence the report is *not* polished and links to the repository with the complete list of articles reviewed are not provided. All mistakes can be attributed to myself (Christine Mendoza).
